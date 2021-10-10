@@ -81,6 +81,9 @@ target/
 # exclude cardiffnlp model
 /models/cardiffnlp
 
+# exclude zzp model
+/models/zzp
+
 # Mac OS-specific storage files
 .DS_Store
 
